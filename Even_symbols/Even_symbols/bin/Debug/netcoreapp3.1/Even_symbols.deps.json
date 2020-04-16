@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Even_symbols/1.0.0": {
+        "runtime": {
+          "Even_symbols.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Even_symbols/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

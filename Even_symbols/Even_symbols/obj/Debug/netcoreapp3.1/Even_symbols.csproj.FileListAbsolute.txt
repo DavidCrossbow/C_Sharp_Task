@@ -1,0 +1,13 @@
+C:\Users\Cellar Door\source\repos\Even_symbols\Even_symbols\bin\Debug\netcoreapp3.1\Even_symbols.exe
+C:\Users\Cellar Door\source\repos\Even_symbols\Even_symbols\bin\Debug\netcoreapp3.1\Even_symbols.deps.json
+C:\Users\Cellar Door\source\repos\Even_symbols\Even_symbols\bin\Debug\netcoreapp3.1\Even_symbols.runtimeconfig.json
+C:\Users\Cellar Door\source\repos\Even_symbols\Even_symbols\bin\Debug\netcoreapp3.1\Even_symbols.runtimeconfig.dev.json
+C:\Users\Cellar Door\source\repos\Even_symbols\Even_symbols\bin\Debug\netcoreapp3.1\Even_symbols.dll
+C:\Users\Cellar Door\source\repos\Even_symbols\Even_symbols\bin\Debug\netcoreapp3.1\Even_symbols.pdb
+C:\Users\Cellar Door\source\repos\Even_symbols\Even_symbols\obj\Debug\netcoreapp3.1\Even_symbols.csprojAssemblyReference.cache
+C:\Users\Cellar Door\source\repos\Even_symbols\Even_symbols\obj\Debug\netcoreapp3.1\Even_symbols.csproj.CoreCompileInputs.cache
+C:\Users\Cellar Door\source\repos\Even_symbols\Even_symbols\obj\Debug\netcoreapp3.1\Even_symbols.AssemblyInfoInputs.cache
+C:\Users\Cellar Door\source\repos\Even_symbols\Even_symbols\obj\Debug\netcoreapp3.1\Even_symbols.AssemblyInfo.cs
+C:\Users\Cellar Door\source\repos\Even_symbols\Even_symbols\obj\Debug\netcoreapp3.1\Even_symbols.dll
+C:\Users\Cellar Door\source\repos\Even_symbols\Even_symbols\obj\Debug\netcoreapp3.1\Even_symbols.pdb
+C:\Users\Cellar Door\source\repos\Even_symbols\Even_symbols\obj\Debug\netcoreapp3.1\Even_symbols.genruntimeconfig.cache
